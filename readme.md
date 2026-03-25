@@ -1,37 +1,44 @@
 <p align="center">
-  <img src="./src/assets/logo.png" width="260" />
+  <img src="./src/assets/logo.png" width="240" />
 </p>
 
 <h1 align="center">BWSTATS</h1>
-<p align="center">World of Tanks Statistics & Hangar Tools</p>
+<p align="center">
+  World of Tanks Statistics & Hangar Tools<br/>
+  Lightweight • Fast • Modern UI
+</p>
 
 ---
 
 ## 🚀 Overview
 
-BWSTATS is a lightweight World of Tanks mod presentation website focused on player statistics, progression tracking, and hangar utility tools.
+BWSTATS is a lightweight World of Tanks mod presentation website focused on:
 
-This project represents the official web presence for the **BW STATS & Hangar Tools mod**, designed with a modern neon gaming UI and high-performance frontend.
+- Player statistics tracking  
+- Progression analysis  
+- Hangar utility tools  
+
+This project represents the modern web presence of **BW STATS & Hangar Tools**, redesigned with a clean neon gaming interface and performance-first frontend.
 
 ---
 
-## 🚀 Features
+## ✨ Features
 
-- Player statistics overview (WN8, performance tracking)
-- Hangar tools presentation
-- Lightweight and fast UI
-- Responsive design (desktop & mobile)
-- Animated hero section with video background
-- Neon-style gaming interface
-- Clean and minimal layout (inspired by original BW STATS site)
+- 📊 Player statistics overview (WN8, performance tracking)
+- 🛠 Hangar tools presentation
+- ⚡ Lightweight and fast UI
+- 📱 Fully responsive design
+- 🎥 Animated hero section with video background
+- 🎮 Modern neon gaming style
+- 🧩 Clean layout inspired by original BW STATS
 
 ---
 
 ## 🧱 Tech Stack
 
 - React (Vite)
-- CSS (custom, no framework)
-- HTML5 Video (hero background)
+- Custom CSS (no framework)
+- HTML5 Video
 - JavaScript (ES6+)
 
 ---
@@ -40,22 +47,25 @@ This project represents the official web presence for the **BW STATS & Hangar To
 
 Clone the repository:
 
-```bash
 git clone https://github.com/YOUR-USERNAME/bwstats-website.git
 cd bwstats-website
 
 Install dependencies:
+
 npm install
 
 Run development server:
+
 npm run dev
 
 Open in browser:
+
 http://localhost:5173
 
 ---
 
-## 📦 📁 Project Structure
+## 📁 Project Structure
+
 bwstats-website/
 ├── src/
 │   ├── assets/        # images, video, logo
@@ -70,38 +80,41 @@ bwstats-website/
 
 ---
 
-## 📦 🌐 Live Website
+## 🌐 Live Website
 
-Official domain:
-
-👉 https://www.bwstats.org
+https://www.bwstats.org
 
 (Deployment via Vercel or Netlify recommended)
 
 ---
 
-## 📦 📥 Downloads
+## 📥 Downloads
 
-The website provides access to:
-BW STATS mod
-Hangar Tools mod
+The platform provides access to:
 
-(Download integration can be connected to GitHub releases or external hosting)
-
----
-
-## 📦 🎯 Project Goal
-
-The goal of this project is to:
-
-Modernize the original BW STATS presentation
-Provide a clean and professional landing page
-Serve as a central hub for mod downloads and updates
-Deliver a premium "game launcher" style experience
+- BW STATS mod  
+- Hangar Tools  
 
 ---
 
-## 📦 ⚠️ Disclaimer
+## 🎯 Project Goal
+
+- Modernize the original BW STATS experience  
+- Provide a clean and professional landing page  
+- Centralize mod downloads and updates  
+- Deliver a premium “game launcher” style UI  
+
+---
+
+## ⚠️ Disclaimer
 
 This project is a fan-made tool and is not affiliated with Wargaming.net.
+
 World of Tanks is a trademark of Wargaming.net.
+
+---
+
+## 👤 Author
+
+BWSTATS Project  
+https://www.bwstats.org
